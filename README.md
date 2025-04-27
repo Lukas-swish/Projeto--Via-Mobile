@@ -9,10 +9,8 @@
 
 - Aqui podemos ver como ficou:
 <br>
-<p align="center">
-<img
-  src="https://github.com/Lukas-swish/Projeto--Via-Mobile/blob/main/img/girl-phone-mobile.png?raw=true" width="212"/>  
-<img
-  src="https://github.com/Lukas-swish/Projeto--Via-Mobile/blob/main/img/desk-top.png?raw=true" width="680"/>
+<p align="left">
+<img src="https://github.com/Lukas-swish/Projeto--Via-Mobile/blob/main/img/girl-phone-mobile.png?raw=true" width="212"/>  
+<img src="https://github.com/Lukas-swish/Projeto--Via-Mobile/blob/main/img/desk-top.png?raw=true" width="680"/>
 
   </p>
